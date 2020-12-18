@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="90px" height="90px" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 2.36403 2.36647"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:white;stroke-width:0.081192}
+    .fil0 {fill:none;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_211310752">
+   <g>
+    <g>
+     <polyline id="_211310824" class="fil0 str0" points="2.10806,1.03784 1.96238,1.1833 2.10724,1.3287 "/>
+     <line id="_211310896" class="fil0 str0" x1="2.00749" y1="1.17273" x2="2.36399" y2= "1.17316" />
+    </g>
+    <g>
+     <polyline id="_211310992" class="fil0 str0" points="0.272093,1.32867 0.417353,1.18326 0.272093,1.03784 "/>
+     <line id="_211311064" class="fil0 str0" x1="0.383604" y1="1.17273" x2="4.60316e-005" y2= "1.17316" />
+    </g>
+   </g>
+   <g>
+    <g>
+     <polyline id="_211311184" class="fil0 str0" points="1.33505,2.10087 1.18962,1.95555 1.04426,2.10087 "/>
+     <line id="_211311256" class="fil0 str0" x1="1.18962" y1="1.99504" x2="1.18939" y2= "2.36644" />
+    </g>
+    <g>
+     <polyline id="_211311352" class="fil0 str0" points="1.04407,0.265694 1.18968,0.410954 1.33489,0.265694 "/>
+     <line id="_211311424" class="fil0 str0" x1="1.18962" y1="0.371467" x2="1.18876" y2= "9.20631e-005" />
+    </g>
+   </g>
+   <g>
+    <g>
+     <polyline id="_211311544" class="fil0 str0" points="1.73573,0.431623 1.73581,0.637199 1.94134,0.637253 "/>
+     <line id="_211311616" class="fil0 str0" x1="1.76375" y1="0.609289" x2="2.02599" y2= "0.346648" />
+    </g>
+    <g>
+     <polyline id="_211311712" class="fil0 str0" points="0.643629,1.93494 0.643544,1.72941 0.438021,1.72931 "/>
+     <line id="_211311784" class="fil0 str0" x1="0.615611" y1="1.75732" x2="0.352809" y2= "2.01996" />
+    </g>
+   </g>
+   <g>
+    <g>
+     <polyline id="_211311904" class="fil0 str0" points="1.94131,1.72931 1.73577,1.72936 1.73571,1.93488 "/>
+     <line id="_211311976" class="fil0 str0" x1="1.76367" y1="1.75732" x2="2.02599" y2= "2.01989" />
+    </g>
+    <g>
+     <polyline id="_211312072" class="fil0 str0" points="0.438021,0.637276 0.643544,0.637169 0.643629,0.431653 "/>
+     <line id="_211312144" class="fil0 str0" x1="0.615634" y1="0.609266" x2="0.352732" y2= "0.346671" />
+    </g>
+   </g>
+   <g>
+    <polygon id="_211312240" class="fil0 str0" points="1.19333,0.660614 1.63097,0.910757 1.19048,1.16504 0.752838,0.914931 "/>
+    <polygon id="_211312312" class="fil0 str0" points="1.63097,0.910757 1.63609,1.41904 1.19555,1.67343 1.19048,1.16504 "/>
+    <polygon id="_211312384" class="fil0 str0" points="1.19048,1.16504 1.19555,1.67343 0.757909,1.4233 0.752838,0.914931 "/>
+   </g>
+  </g>
+ </g>
+</svg>

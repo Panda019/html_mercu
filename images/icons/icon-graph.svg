@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="70px" height="70px" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1.16492 1.15922"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:white;stroke-width:0.0519122}
+    .fil0 {fill:none;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_192963880">
+   <polyline id="_192964960" class="fil0 str0" points="0.662341,0.608211 0.750453,0.721488 0.891695,0.615549 1.10945,0.692066 "/>
+   <polyline id="_192964888" class="fil0 str0" points="0.209008,0.491967 0.338452,0.509606 0.503249,0.403687 0.597719,0.525141 "/>
+   <line id="_192964816" class="fil0 str0" x1="0.148506" y1="1.13048" x2="0.148506" y2= "0.0575925" />
+   <polyline id="_192964744" class="fil0 str0" points="0.0183505,0.166185 0.147864,0.036706 0.277343,0.166185 "/>
+   <line id="_192964672" class="fil0 str0" x1="0.0706355" y1="1.05261" x2="1.14352" y2= "1.05261" />
+   <polyline id="_192964600" class="fil0 str0" points="0.998732,0.881894 1.12821,1.01137 0.998732,1.14087 "/>
+   <polyline id="_192964528" class="fil0 str0" points="0.185448,0.762687 0.256088,0.833308 0.391448,0.63909 0.538571,0.75091 0.732775,0.356606 0.868135,0.450768 1.09178,0.138843 "/>
+   <g>
+    <line id="_192964456" class="fil0 str0" x1="0.321554" y1="1.13048" x2="0.321554" y2= "1.04395" />
+    <line id="_192964384" class="fil0 str0" x1="0.511902" y1="1.13048" x2="0.511902" y2= "1.04395" />
+    <line id="_192964312" class="fil0 str0" x1="0.702255" y1="1.13048" x2="0.702255" y2= "1.04395" />
+    <line id="_192964264" class="fil0 str0" x1="0.892603" y1="1.13048" x2="0.892603" y2= "1.04395" />
+   </g>
+   <g>
+    <line id="_192964144" class="fil0 str0" x1="0.0706355" y1="0.291205" x2="0.157159" y2= "0.291205" />
+    <line id="_192964072" class="fil0 str0" x1="0.0706355" y1="0.481558" x2="0.157159" y2= "0.481558" />
+    <line id="_192964000" class="fil0 str0" x1="0.0706355" y1="0.671906" x2="0.157159" y2= "0.671906" />
+    <line id="_192963952" class="fil0 str0" x1="0.0706355" y1="0.862259" x2="0.157159" y2= "0.862259" />
+   </g>
+  </g>
+ </g>
+</svg>
